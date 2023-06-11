@@ -41,7 +41,6 @@ public class Day01_BasicNavigations {
       driver.navigate().to("https://www.amazon.com/");
 
 
-
       // ON THE SAME CLASS NAVIGATE TO google HOME PAGE https://www.amazon.com/
       driver.get("https://www.google.com/");
 

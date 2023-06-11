@@ -4,17 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9beb618a-5e0a-4c41-9a5f-d98c9e2b7bee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drivers/LICENSE.chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drivers/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day01_BasicNavigations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MyFirstProject2/FirstSeleniumClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Interview questions" afterDir="false" />
+    <list default="true" id="9beb618a-5e0a-4c41-9a5f-d98c9e2b7bee" name="Changes" comment="4 th of june 2.version">
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day01_TitleVerification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day01_WebDriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day02_Assertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day02_GetPageSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day02_JunitAnnotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day02_LocatorsIntro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day01_BasicNavigations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day01_BasicNavigations.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +46,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "C:/Users/ALFAHED/IdeaProjects/MySeleniumProject2/src/main",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -59,9 +61,8 @@
       <recent name="C:\Users\ALFAHED\IdeaProjects\MySeleniumProject2\drivers" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Day01_BasicNavigations">
-    <configuration name="Day01_BasicNavigations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyFirstProject2.Day01_BasicNavigations" />
+  <component name="RunManager" selected="JUnit.day02LocatorsIntro">
+    <configuration name="Day02_JunitAnnotations" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MySeleniumProject2" />
       <extension name="coverage">
         <pattern>
@@ -69,12 +70,14 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="MyFirstProject2" />
+      <option name="MAIN_CLASS_NAME" value="MyFirstProject2.Day02_JunitAnnotations" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstSeleniumClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyFirstProject2.FirstSeleniumClass" />
+    <configuration name="Day02_JunitAnnotations.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MySeleniumProject2" />
       <extension name="coverage">
         <pattern>
@@ -82,14 +85,68 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="MyFirstProject2" />
+      <option name="MAIN_CLASS_NAME" value="MyFirstProject2.Day02_JunitAnnotations" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day02_JunitAnnotations.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MySeleniumProject2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MyFirstProject2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="MyFirstProject2" />
+      <option name="MAIN_CLASS_NAME" value="MyFirstProject2.Day02_JunitAnnotations" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day02_JunitAnnotations.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MySeleniumProject2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MyFirstProject2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="MyFirstProject2" />
+      <option name="MAIN_CLASS_NAME" value="MyFirstProject2.Day02_JunitAnnotations" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day02LocatorsIntro" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MySeleniumProject2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MyFirstProject2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="MyFirstProject2" />
+      <option name="MAIN_CLASS_NAME" value="MyFirstProject2.day02LocatorsIntro" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Day01_BasicNavigations" />
-        <item itemvalue="Application.FirstSeleniumClass" />
+        <item itemvalue="JUnit.day02LocatorsIntro" />
+        <item itemvalue="JUnit.Day02_JunitAnnotations" />
+        <item itemvalue="JUnit.Day02_JunitAnnotations.test3" />
+        <item itemvalue="JUnit.Day02_JunitAnnotations.test2" />
+        <item itemvalue="JUnit.Day02_JunitAnnotations.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -102,6 +159,14 @@
       <option name="presentableId" value="Default" />
       <updated>1685826616447</updated>
     </task>
+    <task id="LOCAL-00001" summary="4 th of june">
+      <created>1685879595608</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685879595608</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,5 +179,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="4 th of june" />
+    <option name="LAST_COMMIT_MESSAGE" value="4 th of june" />
   </component>
 </project>
