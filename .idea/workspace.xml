@@ -5,15 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9beb618a-5e0a-4c41-9a5f-d98c9e2b7bee" name="Changes" comment="4 th of june 2.version">
-      <change afterPath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day01_TitleVerification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day01_WebDriverManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day02_Assertions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day02_GetPageSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day02_JunitAnnotations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day02_LocatorsIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day03_Checkbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day04_DropDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day04_JavaFaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day04_RadioButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day04_cssSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Practice/Q01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Practice/Q02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Practice/Q03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Practice/Q04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Practice/QO3Websitesolution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day01_BasicNavigations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day01_BasicNavigations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day02_LocatorsIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day02_LocatorsIntro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,17 +45,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/ALFAHED/IdeaProjects/MySeleniumProject2/src/main",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ALFAHED/IdeaProjects/MySeleniumProject2/src/main&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ALFAHED\IdeaProjects\MySeleniumProject2\src\main" />
@@ -61,8 +65,8 @@
       <recent name="C:\Users\ALFAHED\IdeaProjects\MySeleniumProject2\drivers" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.day02LocatorsIntro">
-    <configuration name="Day02_JunitAnnotations" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Day04_RadioButton.signUpAccount">
+    <configuration name="Day04_DropDown.selectByIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MySeleniumProject2" />
       <extension name="coverage">
         <pattern>
@@ -71,13 +75,45 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="MyFirstProject2" />
-      <option name="MAIN_CLASS_NAME" value="MyFirstProject2.Day02_JunitAnnotations" />
+      <option name="MAIN_CLASS_NAME" value="MyFirstProject2.Day04_DropDown" />
+      <option name="METHOD_NAME" value="selectByIndex" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day04_DropDown.selectByVisibleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MySeleniumProject2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MyFirstProject2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="MyFirstProject2" />
+      <option name="MAIN_CLASS_NAME" value="MyFirstProject2.Day04_DropDown" />
+      <option name="METHOD_NAME" value="selectByVisibleTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day04_RadioButton" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MySeleniumProject2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MyFirstProject2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="MyFirstProject2" />
+      <option name="MAIN_CLASS_NAME" value="MyFirstProject2.Day04_RadioButton" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day02_JunitAnnotations.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Day04_RadioButton.NoSuchElementException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MySeleniumProject2" />
       <extension name="coverage">
         <pattern>
@@ -86,14 +122,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="MyFirstProject2" />
-      <option name="MAIN_CLASS_NAME" value="MyFirstProject2.Day02_JunitAnnotations" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="MAIN_CLASS_NAME" value="MyFirstProject2.Day04_RadioButton" />
+      <option name="METHOD_NAME" value="NoSuchElementException" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day02_JunitAnnotations.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Day04_RadioButton.signUpAccount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MySeleniumProject2" />
       <extension name="coverage">
         <pattern>
@@ -102,51 +138,20 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="MyFirstProject2" />
-      <option name="MAIN_CLASS_NAME" value="MyFirstProject2.Day02_JunitAnnotations" />
-      <option name="METHOD_NAME" value="test2" />
+      <option name="MAIN_CLASS_NAME" value="MyFirstProject2.Day04_RadioButton" />
+      <option name="METHOD_NAME" value="signUpAccount" />
       <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day02_JunitAnnotations.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="MySeleniumProject2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="MyFirstProject2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="MyFirstProject2" />
-      <option name="MAIN_CLASS_NAME" value="MyFirstProject2.Day02_JunitAnnotations" />
-      <option name="METHOD_NAME" value="test3" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="day02LocatorsIntro" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="MySeleniumProject2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="MyFirstProject2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="MyFirstProject2" />
-      <option name="MAIN_CLASS_NAME" value="MyFirstProject2.day02LocatorsIntro" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.day02LocatorsIntro" />
-        <item itemvalue="JUnit.Day02_JunitAnnotations" />
-        <item itemvalue="JUnit.Day02_JunitAnnotations.test3" />
-        <item itemvalue="JUnit.Day02_JunitAnnotations.test2" />
-        <item itemvalue="JUnit.Day02_JunitAnnotations.test1" />
+        <item itemvalue="JUnit.Day04_RadioButton.signUpAccount" />
+        <item itemvalue="JUnit.Day04_RadioButton" />
+        <item itemvalue="JUnit.Day04_RadioButton.NoSuchElementException" />
+        <item itemvalue="JUnit.Day04_DropDown.selectByVisibleTest" />
+        <item itemvalue="JUnit.Day04_DropDown.selectByIndex" />
       </list>
     </recent_temporary>
   </component>
