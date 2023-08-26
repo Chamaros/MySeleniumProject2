@@ -5,6 +5,7 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.By;
+import org.openqa.selenium.ElementClickInterceptedException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -29,7 +30,7 @@ public class Q03 {
     }
 
     @Test
-    public void  ElementClickInterceptedException (){
+    public void test()  throws ElementClickInterceptedException {
         // BENIM YONTEM VE DE INSTRUCTOR YONTEMI
         driver.get("https://www.techlistic.com/p/selenium-practice-form.html");
 

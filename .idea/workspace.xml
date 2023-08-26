@@ -4,20 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9beb618a-5e0a-4c41-9a5f-d98c9e2b7bee" name="Changes" comment="4 th of june 2.version">
-      <change afterPath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day03_Checkbox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day04_DropDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day04_JavaFaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day04_RadioButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day04_cssSelector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Practice/Q01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Practice/Q02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Practice/Q03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Practice/Q04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Practice/QO3Websitesolution.java" afterDir="false" />
+    <list default="true" id="9beb618a-5e0a-4c41-9a5f-d98c9e2b7bee" name="Changes" comment="23rd of august version">
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day05_Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day05_GoogleSearchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day05_TestBaseDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyFirstProject2/utilities/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Practice/Day04_SignInHomework.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day02_LocatorsIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day02_LocatorsIntro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day04_DropDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day04_DropDown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Practice/Q03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Practice/Q03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,8 +60,8 @@
       <recent name="C:\Users\ALFAHED\IdeaProjects\MySeleniumProject2\drivers" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Day04_RadioButton.signUpAccount">
-    <configuration name="Day04_DropDown.selectByIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Day05_GoogleSearchTest.GoogleSearch">
+    <configuration name="Day05_Alerts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MySeleniumProject2" />
       <extension name="coverage">
         <pattern>
@@ -75,45 +70,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="MyFirstProject2" />
-      <option name="MAIN_CLASS_NAME" value="MyFirstProject2.Day04_DropDown" />
-      <option name="METHOD_NAME" value="selectByIndex" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day04_DropDown.selectByVisibleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="MySeleniumProject2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="MyFirstProject2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="MyFirstProject2" />
-      <option name="MAIN_CLASS_NAME" value="MyFirstProject2.Day04_DropDown" />
-      <option name="METHOD_NAME" value="selectByVisibleTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day04_RadioButton" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="MySeleniumProject2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="MyFirstProject2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="MyFirstProject2" />
-      <option name="MAIN_CLASS_NAME" value="MyFirstProject2.Day04_RadioButton" />
+      <option name="MAIN_CLASS_NAME" value="MyFirstProject2.Day05_Alerts" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day04_RadioButton.NoSuchElementException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Day05_Alerts.acceptAlert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MySeleniumProject2" />
       <extension name="coverage">
         <pattern>
@@ -122,14 +85,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="MyFirstProject2" />
-      <option name="MAIN_CLASS_NAME" value="MyFirstProject2.Day04_RadioButton" />
-      <option name="METHOD_NAME" value="NoSuchElementException" />
+      <option name="MAIN_CLASS_NAME" value="MyFirstProject2.Day05_Alerts" />
+      <option name="METHOD_NAME" value="acceptAlert" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day04_RadioButton.signUpAccount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Day05_Alerts.dismissAlert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MySeleniumProject2" />
       <extension name="coverage">
         <pattern>
@@ -138,8 +101,40 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="MyFirstProject2" />
-      <option name="MAIN_CLASS_NAME" value="MyFirstProject2.Day04_RadioButton" />
-      <option name="METHOD_NAME" value="signUpAccount" />
+      <option name="MAIN_CLASS_NAME" value="MyFirstProject2.Day05_Alerts" />
+      <option name="METHOD_NAME" value="dismissAlert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day05_Alerts.sendKeysAlert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MySeleniumProject2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MyFirstProject2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="MyFirstProject2" />
+      <option name="MAIN_CLASS_NAME" value="MyFirstProject2.Day05_Alerts" />
+      <option name="METHOD_NAME" value="sendKeysAlert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day05_GoogleSearchTest.GoogleSearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MySeleniumProject2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MyFirstProject2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="MyFirstProject2" />
+      <option name="MAIN_CLASS_NAME" value="MyFirstProject2.Day05_GoogleSearchTest" />
+      <option name="METHOD_NAME" value="GoogleSearch" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -147,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Day04_RadioButton.signUpAccount" />
-        <item itemvalue="JUnit.Day04_RadioButton" />
-        <item itemvalue="JUnit.Day04_RadioButton.NoSuchElementException" />
-        <item itemvalue="JUnit.Day04_DropDown.selectByVisibleTest" />
-        <item itemvalue="JUnit.Day04_DropDown.selectByIndex" />
+        <item itemvalue="JUnit.Day05_GoogleSearchTest.GoogleSearch" />
+        <item itemvalue="JUnit.Day05_Alerts.sendKeysAlert" />
+        <item itemvalue="JUnit.Day05_Alerts.dismissAlert" />
+        <item itemvalue="JUnit.Day05_Alerts.acceptAlert" />
+        <item itemvalue="JUnit.Day05_Alerts" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685879595608</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="23rd of august version">
+      <created>1692813640623</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1692813640623</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,6 +189,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="4 th of june" />
-    <option name="LAST_COMMIT_MESSAGE" value="4 th of june" />
+    <MESSAGE value="23rd of august version" />
+    <option name="LAST_COMMIT_MESSAGE" value="23rd of august version" />
   </component>
 </project>
