@@ -28,6 +28,7 @@ public class Day06_WindowHandle2 extends TestBase {
        String LinkedinWindowHandle = driver.getWindowHandle();
 
        driver.switchTo().window(TechproWindowHandle);
+       driver.switchTo().
 
 
 
