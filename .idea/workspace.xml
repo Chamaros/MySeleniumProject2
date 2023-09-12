@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9beb618a-5e0a-4c41-9a5f-d98c9e2b7bee" name="Changes" comment="23rd of august version">
-      <change afterPath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day05_Alerts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day05_GoogleSearchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day05_TestBaseDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MyFirstProject2/utilities/TestBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Practice/Day04_SignInHomework.java" afterDir="false" />
+    <list default="true" id="9beb618a-5e0a-4c41-9a5f-d98c9e2b7bee" name="Changes" comment="26rd of august version">
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day06_Iframe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day06_WindowHandle1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day06_WindowHandle2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Practice/Q05_iFrame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day04_DropDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day04_DropDown.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Practice/Q03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Practice/Q03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,8 +57,8 @@
       <recent name="C:\Users\ALFAHED\IdeaProjects\MySeleniumProject2\drivers" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Day05_GoogleSearchTest.GoogleSearch">
-    <configuration name="Day05_Alerts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Day06_WindowHandle2.newWindowTest">
+    <configuration name="Day06_Iframe" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MySeleniumProject2" />
       <extension name="coverage">
         <pattern>
@@ -70,13 +67,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="MyFirstProject2" />
-      <option name="MAIN_CLASS_NAME" value="MyFirstProject2.Day05_Alerts" />
+      <option name="MAIN_CLASS_NAME" value="MyFirstProject2.Day06_Iframe" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day05_Alerts.acceptAlert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Day06_Iframe.iframeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MySeleniumProject2" />
       <extension name="coverage">
         <pattern>
@@ -85,14 +82,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="MyFirstProject2" />
-      <option name="MAIN_CLASS_NAME" value="MyFirstProject2.Day05_Alerts" />
-      <option name="METHOD_NAME" value="acceptAlert" />
+      <option name="MAIN_CLASS_NAME" value="MyFirstProject2.Day06_Iframe" />
+      <option name="METHOD_NAME" value="iframeTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day05_Alerts.dismissAlert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Day06_WindowHandle1.windowHandleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MySeleniumProject2" />
       <extension name="coverage">
         <pattern>
@@ -101,14 +98,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="MyFirstProject2" />
-      <option name="MAIN_CLASS_NAME" value="MyFirstProject2.Day05_Alerts" />
-      <option name="METHOD_NAME" value="dismissAlert" />
+      <option name="MAIN_CLASS_NAME" value="MyFirstProject2.Day06_WindowHandle1" />
+      <option name="METHOD_NAME" value="windowHandleTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day05_Alerts.sendKeysAlert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Day06_WindowHandle2.newWindowTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MySeleniumProject2" />
       <extension name="coverage">
         <pattern>
@@ -117,24 +114,24 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="MyFirstProject2" />
-      <option name="MAIN_CLASS_NAME" value="MyFirstProject2.Day05_Alerts" />
-      <option name="METHOD_NAME" value="sendKeysAlert" />
+      <option name="MAIN_CLASS_NAME" value="MyFirstProject2.Day06_WindowHandle2" />
+      <option name="METHOD_NAME" value="newWindowTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day05_GoogleSearchTest.GoogleSearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Q05_iFrame.iFrameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MySeleniumProject2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MyFirstProject2.*" />
+          <option name="PATTERN" value="Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="MyFirstProject2" />
-      <option name="MAIN_CLASS_NAME" value="MyFirstProject2.Day05_GoogleSearchTest" />
-      <option name="METHOD_NAME" value="GoogleSearch" />
+      <option name="PACKAGE_NAME" value="Practice" />
+      <option name="MAIN_CLASS_NAME" value="Practice.Q05_iFrame" />
+      <option name="METHOD_NAME" value="iFrameTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -142,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Day05_GoogleSearchTest.GoogleSearch" />
-        <item itemvalue="JUnit.Day05_Alerts.sendKeysAlert" />
-        <item itemvalue="JUnit.Day05_Alerts.dismissAlert" />
-        <item itemvalue="JUnit.Day05_Alerts.acceptAlert" />
-        <item itemvalue="JUnit.Day05_Alerts" />
+        <item itemvalue="JUnit.Day06_WindowHandle2.newWindowTest" />
+        <item itemvalue="JUnit.Day06_WindowHandle1.windowHandleTest" />
+        <item itemvalue="JUnit.Q05_iFrame.iFrameTest" />
+        <item itemvalue="JUnit.Day06_Iframe.iframeTest" />
+        <item itemvalue="JUnit.Day06_Iframe" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692813640623</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="26rd of august version">
+      <created>1693088255826</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1693088255826</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -190,6 +194,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="4 th of june" />
     <MESSAGE value="23rd of august version" />
-    <option name="LAST_COMMIT_MESSAGE" value="23rd of august version" />
+    <MESSAGE value="26rd of august version" />
+    <option name="LAST_COMMIT_MESSAGE" value="26rd of august version" />
   </component>
 </project>
