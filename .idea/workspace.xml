@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9beb618a-5e0a-4c41-9a5f-d98c9e2b7bee" name="Changes" comment="26rd of august version">
+    <list default="true" id="9beb618a-5e0a-4c41-9a5f-d98c9e2b7bee" name="Changes" comment="sept 12 evening">
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day07_Actions1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day07_Actions2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day07_Authentication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day07_Cookies.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day06_WindowHandle1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day06_WindowHandle1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day06_WindowHandle2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MyFirstProject2/Day06_WindowHandle2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +30,13 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectId" id="2QiBdkbQ6F2qRbiDTfsHakWLdqL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -54,8 +66,8 @@
       <recent name="C:\Users\ALFAHED\IdeaProjects\MySeleniumProject2\drivers" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Day06_WindowHandle2.newWindowTest">
-    <configuration name="Day06_Iframe" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Day07_Actions2.hoverOverTest">
+    <configuration name="Day05_Alerts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MySeleniumProject2" />
       <extension name="coverage">
         <pattern>
@@ -64,13 +76,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="MyFirstProject2" />
-      <option name="MAIN_CLASS_NAME" value="MyFirstProject2.Day06_Iframe" />
+      <option name="MAIN_CLASS_NAME" value="MyFirstProject2.Day05_Alerts" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day06_Iframe.iframeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Day07_Actions1.contextClickTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MySeleniumProject2" />
       <extension name="coverage">
         <pattern>
@@ -79,14 +91,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="MyFirstProject2" />
-      <option name="MAIN_CLASS_NAME" value="MyFirstProject2.Day06_Iframe" />
-      <option name="METHOD_NAME" value="iframeTest" />
+      <option name="MAIN_CLASS_NAME" value="MyFirstProject2.Day07_Actions1" />
+      <option name="METHOD_NAME" value="contextClickTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day06_WindowHandle1.windowHandleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Day07_Actions2.hoverOverTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MySeleniumProject2" />
       <extension name="coverage">
         <pattern>
@@ -95,14 +107,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="MyFirstProject2" />
-      <option name="MAIN_CLASS_NAME" value="MyFirstProject2.Day06_WindowHandle1" />
-      <option name="METHOD_NAME" value="windowHandleTest" />
+      <option name="MAIN_CLASS_NAME" value="MyFirstProject2.Day07_Actions2" />
+      <option name="METHOD_NAME" value="hoverOverTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day06_WindowHandle2.newWindowTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Day07_Authentication.basicAuthTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MySeleniumProject2" />
       <extension name="coverage">
         <pattern>
@@ -111,24 +123,24 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="MyFirstProject2" />
-      <option name="MAIN_CLASS_NAME" value="MyFirstProject2.Day06_WindowHandle2" />
-      <option name="METHOD_NAME" value="newWindowTest" />
+      <option name="MAIN_CLASS_NAME" value="MyFirstProject2.Day07_Authentication" />
+      <option name="METHOD_NAME" value="basicAuthTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q05_iFrame.iFrameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Day07_Cookies.cookieTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MySeleniumProject2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.*" />
+          <option name="PATTERN" value="MyFirstProject2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Practice" />
-      <option name="MAIN_CLASS_NAME" value="Practice.Q05_iFrame" />
-      <option name="METHOD_NAME" value="iFrameTest" />
+      <option name="PACKAGE_NAME" value="MyFirstProject2" />
+      <option name="MAIN_CLASS_NAME" value="MyFirstProject2.Day07_Cookies" />
+      <option name="METHOD_NAME" value="cookieTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -136,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Day06_WindowHandle2.newWindowTest" />
-        <item itemvalue="JUnit.Day06_WindowHandle1.windowHandleTest" />
-        <item itemvalue="JUnit.Q05_iFrame.iFrameTest" />
-        <item itemvalue="JUnit.Day06_Iframe.iframeTest" />
-        <item itemvalue="JUnit.Day06_Iframe" />
+        <item itemvalue="JUnit.Day07_Actions2.hoverOverTest" />
+        <item itemvalue="JUnit.Day07_Actions1.contextClickTest" />
+        <item itemvalue="JUnit.Day07_Cookies.cookieTest" />
+        <item itemvalue="JUnit.Day05_Alerts" />
+        <item itemvalue="JUnit.Day07_Authentication.basicAuthTest" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693088255826</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="sept 12 evening">
+      <created>1694535369390</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1694535369390</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -192,6 +211,7 @@
     <MESSAGE value="4 th of june" />
     <MESSAGE value="23rd of august version" />
     <MESSAGE value="26rd of august version" />
-    <option name="LAST_COMMIT_MESSAGE" value="26rd of august version" />
+    <MESSAGE value="sept 12 evening" />
+    <option name="LAST_COMMIT_MESSAGE" value="sept 12 evening" />
   </component>
 </project>

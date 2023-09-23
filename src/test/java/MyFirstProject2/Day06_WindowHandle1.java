@@ -21,15 +21,17 @@ public class Day06_WindowHandle1 extends TestBase {
         String window1URL = driver.getCurrentUrl();
         Assert.assertEquals("https://the-internet.herokuapp.com/windows",window1URL);
 
+
+        // GET WINDOW1 HANDLE
+        String window1Handle = driver.getWindowHandle(); // getting the Id of window 1
+        System.out.println(window1Handle);
+
         //click on the click here link
         driver.findElement(By.linkText("Click Here")).click();
 
         //verify the window2 URL is https://the-internet.herokuapp.com/windows/new
 
 
-        // GET WINDOW1 HANDLE
-        String window1Handle = driver.getWindowHandle(); // getting the Id of window 1
-        System.out.println(window1Handle);
 
         Set<String> allWindowHandles =  driver.getWindowHandles();
         System.out.println(allWindowHandles);
